@@ -30,4 +30,8 @@ cargo stylus cache bid 6005b705a7d459f58477231ff704adedc36ac479 0 \
 ```
 ---
 
+## contract 
+* **mycontract :** 0x6005b705a7d459f58477231ff704adedc36ac479
+[scan contract:](https://sepolia.arbiscan.io/address/0x6005b705a7d459f58477231ff704adedc36ac479#code)
+
 
