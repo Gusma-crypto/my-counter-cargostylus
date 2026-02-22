@@ -1,5 +1,11 @@
 # DEPLOY
 ---
+* **Noted:** gunakan versi cargo stylus cli 0.6.3
+* **cara cek:** 
+```bash 
+cargo stylus --version
+```
+---
 ## deploy dengan .env
 -- deploy menggunakan env
 ```bash
