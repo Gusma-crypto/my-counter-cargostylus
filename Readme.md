@@ -5,6 +5,10 @@
 ```bash 
 cargo stylus --version
 ```
+* **cara upgrade biar g gagal:**
+```bash
+cargo install cargo-stylus --version 0.6.3 --locked --force
+```
 ---
 ## deploy dengan .env
 -- deploy menggunakan env
